@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarunkumar
 - I am a cloud enthusiast & also passionate of teaching cloud solutions
-- and creating technology to elevate people some technology to elevate people and
+- and creating technology to elevate people 
 - some technologies i like building is aws,azure..etc
 - and i will share my learning journey to you..
 
