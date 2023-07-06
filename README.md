@@ -1,14 +1,1 @@
-- 👋 Hi, I’m @tarunkumar
-- I am a cloud enthusiast & also passionate of teaching cloud solutions
-- and creating technology to elevate people 
-- some technologies i like building is aws,azure..etc
-- and i will share my learning journey to you..
-
-- .......so lets start our journey......
-  
-
-
-<!---
-taruncodeplace6666/taruncodeplace6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I am a passionate cloud enthusiast who is constantly seeking to expand my knowledge of emerging technologies and techniques. My primary focus revolves around AWS, Terraform, Azure, and Docker. Through my journey, I aim to explore and understand the intricacies of these platforms while embracing their potential to drive innovation and efficiency in cloud computing. As a result, I am excited to share my insights and experiences through informative blog posts, providing valuable resources to fellow cloud enthusiasts and those eager to learn more about these technologies. Join me on this exciting adventure as we navigate the ever-evolving world of cloud computing together!
